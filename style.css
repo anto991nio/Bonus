@@ -84,5 +84,27 @@ li > a {
     padding:10px;
     font-size: 12px;
     margin-left: 5px;
+    color: gray;
 
+}
+
+#secondbtn{
+    background-color: rgb(39, 161, 129);
+    color: white;
+}
+
+.rehealth{
+    background-image: url(bg2.jpg);
+    height: 500px;
+    font-size: 40px;
+    font-weight: 700;
+    padding-left: 50%;
+    padding-top: 170px;
+
+}
+
+.rehealth > p{
+    font-size: 17px;
+    font-weight:400;
+    color: gray;
 }
